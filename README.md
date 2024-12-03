@@ -83,7 +83,7 @@ In this course, you will learn how to analyze HR and employee data, including de
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 8022445730</td>
     </tr>
     <tr>
       <td>📍</td>
