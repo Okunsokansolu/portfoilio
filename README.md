@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hi there! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hi! As a data analyst and accountant, I specialize in interpreting financial data, optimizing business processes, and providing actionable insights. With expertise in data analysis tools and accounting principles, I help organizations make informed decisions and ensure financial accuracy.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
